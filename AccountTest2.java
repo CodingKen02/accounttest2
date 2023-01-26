@@ -2,7 +2,7 @@
 Name: Kennedy Keyes
 Date: September 12, 2021
 Program: AcountTest2
-Description: This program uses the Account2 constructor to initalize the 
+Description: This program uses the Account2 constructor to initialize the 
 name instance variable at the time each Account2 object is created.
  */
 package accounttest2;
